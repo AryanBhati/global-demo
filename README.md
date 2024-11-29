@@ -1,0 +1,2 @@
+# global-demo
+global inflation
